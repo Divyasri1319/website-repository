@@ -1,0 +1,66 @@
+ body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f5f9ff;
+      color: #333;
+    }
+    header, section, footer {
+      padding: 40px 20px;
+      text-align: center;
+    }
+    #hero {
+      background: #4f46e5;
+      color: white;
+      padding: 80px 20px;
+    }
+    #hero h1 {
+      font-size: 3rem;
+    }
+    #hero a {
+      margin-top: 20px;
+      display: inline-block;
+      padding: 10px 20px;
+      background: white;
+      color: #4f46e5;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    section h2 {
+      font-size: 2rem;
+      margin-bottom: 10px;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    ul li {
+      background: #e0ecff;
+      margin: 10px auto;
+      padding: 10px;
+      max-width: 500px;
+      border-radius: 8px;
+    }
+    form {
+      margin-top: 20px;
+    }
+    input[type="email"] {
+      padding: 10px;
+      width: 250px;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+    }
+    button {
+      padding: 10px 20px;
+      background: #4f46e5;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      margin-left: 10px;
+    }
+    footer {
+      background: #1e1e1e;
+      color: white;
+      font-size: 0.9rem;
+    }
